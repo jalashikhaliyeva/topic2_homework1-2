@@ -85,6 +85,7 @@ nav a {
     padding: 30px;
     display: flex;
     flex-direction: column;
+    border: 1px solid #ddd ;
     
 
 }
@@ -143,6 +144,7 @@ nav a {
     height: 230px;
     padding: 30px ;
     margin: 0 0 0 20px;
+    border: 1px solid #ddd; 
 
 }
 
@@ -240,6 +242,7 @@ nav a {
     height: 230px;
     padding: 30px ;
     margin: 0 0 0 20px;
+    border: 1px solid #ddd;
    
     
 }
@@ -253,6 +256,7 @@ nav a {
     font-family: Arial, Helvetica, sans-serif;
     padding: 30px;
     margin: 0 0 40px;
+    border: 1px solid #ddd;
 
 }
 
